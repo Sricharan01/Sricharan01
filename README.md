@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on **Route optimization for bus fleet**
 
-- 🌱 I’m currently learning **DSA using Java, ML**
+- 🌱 I’m currently learning **DSA and
+ ML**
 
 - 💬 Ask me about **Next Js**
 
