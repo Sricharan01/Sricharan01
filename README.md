@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **DSA and
  ML**
 
-- 💬 Ask me about **Next Js**
-
 - 📫 How to reach me **renish1419@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
