@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sricharan01&label=Profile%20views&color=0e75b6&style=flat" alt="sricharan01" /> </p>
 
-- 🔭 I’m currently working on **Route optimization for bus fleet**
 
 - 🌱 I’m currently learning **DSA and
  ML**
