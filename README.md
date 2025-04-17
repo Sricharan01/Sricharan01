@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Exploring **ML, Generative AI, AI Agents, NLP**
 
-- 📫 How to reach me **renish1419@gmail.com**
+- 📫 Reach me at **renish1419@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,8 @@
 
 - Speciality - Creating Products with Performance and Intelligence !
 - 🏢 I'm  Building an LLM Models.
+- worked on frontend, backend, frameworks, RAG Agents, Finetuned Few models based on use cases.
+- Foundations: Python, AI, ML, Data cleaning, Data Analysis, SQL, Communication skills
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.jsonl`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`, `nextjs`
 - 🌱 Learning more about and studying: **Open Source, Angular, CS Algorithms, Machine learning, AI, API, and Space tech**
 - 💬 Ping me about: **web design**, **AI**, **website dev**, **API**, **ML**
