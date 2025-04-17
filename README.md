@@ -17,6 +17,26 @@
 </p>
 
 
+
+- Speciality - Creating Products with Performance and Intelligence !
+- 🏢 I'm  Building an LLM Models.
+- ⚙️ I use daily: `.py`, `.js`, `.java`, `.jsonl`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`, `nextjs`
+- 🌱 Learning more about and studying: **Open Source, Angular, CS Algorithms, Machine learning, AI, API, and Space tech**
+- 💬 Ping me about: **web design**, **AI**, **website dev**, **API**, **ML**
+- 😄 Passionate about AI
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sricharan01&show_icons=true&locale=en&layout=compact" alt="sricharan01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sricharan01&show_icons=true&locale=en" alt="sricharan01" /></p>
@@ -24,3 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sricharan01&" alt="sricharan01" /></p>
 
 [![@sricharan01's Holopin board](https://holopin.me/sricharan01)](https://holopin.io/@sricharan01)
+
+⭐️ Thank you very much
